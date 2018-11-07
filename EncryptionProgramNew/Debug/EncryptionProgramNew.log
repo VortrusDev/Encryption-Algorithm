@@ -1,0 +1,9 @@
+﻿  EncryptionProgramNew.cpp
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(141): warning C4018: '<=': signed/unsigned mismatch
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(181): warning C4018: '>': signed/unsigned mismatch
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(277): warning C4018: '<=': signed/unsigned mismatch
+c:\users\justi\source\repos\encryptionprogramnew\encryptionprogramnew.cpp(305): warning C4018: '<=': signed/unsigned mismatch
+  EncryptionProgramNew.vcxproj -> C:\Users\justi\Source\Repos\EncryptionProgramNew\Debug\EncryptionProgramNew.exe

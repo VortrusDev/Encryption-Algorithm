@@ -6,4 +6,10 @@ To use the program, simply run the program and type the path to the file you wou
 To decrypt the encrypted file, restart the program and write the path to the file you wish to decrypt. Tell the program to decrypt it, and then enter the password. It will output the decrypted string.
 
 # Known issues
-The decryption algorithm needs to be tweaked to work correctly. The program will not be able to write to any files right now, however this will change in the future once the encryption and decryption are more stable. The decryption algorithm will work for short sentences right now, but anything long will break due to a known bug. Multiple lines are not supported yet, and only ANSI text is supported right now. 
+It works for most decently sized paragraphs now! Unfortunately, if given too much info, it now hangs due to a while-loop error which I need to rewrite and get out of here (I will most likely do this with a recursive function).
+
+# Goals moving forward
+* Fixing the while-loop bug
+* Adding unicode and UTF support
+
+Please note that this is a side-project at best, and I will likely not make it anything more than that. The algorithm is extremely weak with small segments of text, but fairly strong with large ones (You are still better off using RSA though for now, and for the love of GOD DO NOT encrypt anything important with this until the larger bugs are ironed out).

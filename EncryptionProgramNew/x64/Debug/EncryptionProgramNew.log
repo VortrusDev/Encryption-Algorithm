@@ -1,0 +1,3 @@
+﻿  EncryptionProgramNew.cpp
+C:\Users\justi\Source\Repos\New-Encryption-System\EncryptionProgramNew\EncryptionProgramNew.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EncryptionProgramNew.vcxproj -> C:\Users\justi\Source\Repos\New-Encryption-System\EncryptionProgramNew\x64\Debug\EncryptionProgramNew.exe
